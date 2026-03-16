@@ -134,3 +134,14 @@ Keyur
 
 GitHub:  https://github.com/keyurck7
 
+## Screenshots
+
+### Dashboard
+![Dashboard](docs/Dashboard.png)
+
+### Records
+![Records](docs/Records.png)
+
+### Appointments
+![Appointments](docs/Appointment.png)
+
